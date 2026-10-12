@@ -1,0 +1,6 @@
+{
+  "HOUSING": ["human settlements", "housing", "rental", "rent ", "tenant", "short-term", "short term", "accommodation", "informal settlement", "evictions"],
+  "PLANNING": ["planning", "spatial development", "land use", "zoning", "rezoning", "by-law", "bylaw", "municipal planning tribunal"],
+  "BUDGET": ["budget", "tariff", "idp", "integrated development plan", "rates"],
+  "COUNCIL": ["full council", "council meeting", "mayoral committee", "mayco"]
+}
