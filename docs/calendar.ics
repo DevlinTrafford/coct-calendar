@@ -656,14 +656,14 @@ URL:https://web1.capetown.gov.za/web1/councilhubonline/councilandCommittee
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[PLANNING] Planning Appeals Advisory Panel
-DTSTART;TZID=Africa/Johannesburg:20261027T110000
+DTSTART;TZID=Africa/Johannesburg:20261027T090000
 DTEND;TZID=Africa/Johannesburg:20261027T140000
-DTSTAMP:20251229T134310Z
+DTSTAMP:20261013T082154Z
 UID:coct-council-16992@coct-calendar
 DESCRIPTION:Topics: PLANNING\nType: Ordinary\nAgendas\, reports and minute
  s: https://web1.capetown.gov.za/web1/councilhubonline/councilandCommitteem
  eetings
-LAST-MODIFIED:20251229T134310Z
+LAST-MODIFIED:20261013T082154Z
 LOCATION:Ray Alexander Simon Room Civic Centre
 STATUS:CONFIRMED
 URL:https://web1.capetown.gov.za/web1/councilhubonline/councilandCommittee
