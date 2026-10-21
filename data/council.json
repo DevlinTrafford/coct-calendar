@@ -624,6 +624,19 @@
   "url": "https://web1.capetown.gov.za/web1/councilhubonline/councilandCommitteemeetings"
  },
  {
+  "uid": "coct-council-17148",
+  "title": "Special General Appeals Committee",
+  "date": "2026-10-30",
+  "start": "10:00",
+  "end": "14:00",
+  "location": "Microsoft Teams",
+  "cancelled": false,
+  "details": "",
+  "meeting_type": "Special",
+  "modified": "2026-10-20T14:38:41.5531274",
+  "url": "https://web1.capetown.gov.za/web1/councilhubonline/councilandCommitteemeetings"
+ },
+ {
   "uid": "coct-council-16996",
   "title": "Community Services and Health Portfolio Committee",
   "date": "2026-11-02",

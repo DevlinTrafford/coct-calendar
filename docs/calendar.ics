@@ -698,6 +698,20 @@ URL:https://web1.capetown.gov.za/web1/councilhubonline/councilandCommittee
  meetings
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Special General Appeals Committee
+DTSTART;TZID=Africa/Johannesburg:20261030T100000
+DTEND;TZID=Africa/Johannesburg:20261030T140000
+DTSTAMP:20261020T123841Z
+UID:coct-council-17148@coct-calendar
+DESCRIPTION:Type: Special\nAgendas\, reports and minutes: https://web1.cap
+ etown.gov.za/web1/councilhubonline/councilandCommitteemeetings
+LAST-MODIFIED:20261020T123841Z
+LOCATION:Microsoft Teams
+STATUS:CONFIRMED
+URL:https://web1.capetown.gov.za/web1/councilhubonline/councilandCommittee
+ meetings
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Services and Health Portfolio Committee
 DTSTART;TZID=Africa/Johannesburg:20261102T100000
 DTEND;TZID=Africa/Johannesburg:20261102T140000
