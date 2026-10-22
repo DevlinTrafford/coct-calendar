@@ -903,7 +903,7 @@
   "start": "11:00",
   "end": "14:00",
   "location": "Council Chamber Cape Town Civic Centre",
-  "cancelled": false,
+  "cancelled": true,
   "details": "",
   "meeting_type": "Ordinary",
   "modified": "2026-01-27T08:35:32.9195187",

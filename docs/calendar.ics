@@ -1006,11 +1006,11 @@ DTSTART;TZID=Africa/Johannesburg:20261120T110000
 DTEND;TZID=Africa/Johannesburg:20261120T140000
 DTSTAMP:20260127T063532Z
 UID:coct-council-17026@coct-calendar
-DESCRIPTION:Type: Ordinary\nAgendas\, reports and minutes: https://web1.ca
- petown.gov.za/web1/councilhubonline/councilandCommitteemeetings
+DESCRIPTION:CANCELLED\nType: Ordinary\nAgendas\, reports and minutes: http
+ s://web1.capetown.gov.za/web1/councilhubonline/councilandCommitteemeetings
 LAST-MODIFIED:20260127T063532Z
 LOCATION:Council Chamber Cape Town Civic Centre
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://web1.capetown.gov.za/web1/councilhubonline/councilandCommittee
  meetings
 END:VEVENT
