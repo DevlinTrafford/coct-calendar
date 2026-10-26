@@ -699,13 +699,13 @@ URL:https://web1.capetown.gov.za/web1/councilhubonline/councilandCommittee
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Special General Appeals Committee
-DTSTART;TZID=Africa/Johannesburg:20261030T100000
+DTSTART;TZID=Africa/Johannesburg:20261030T093000
 DTEND;TZID=Africa/Johannesburg:20261030T140000
-DTSTAMP:20261020T123841Z
+DTSTAMP:20261026T045531Z
 UID:coct-council-17148@coct-calendar
-DESCRIPTION:Type: Special\nAgendas\, reports and minutes: https://web1.cap
- etown.gov.za/web1/councilhubonline/councilandCommitteemeetings
-LAST-MODIFIED:20261020T123841Z
+DESCRIPTION:Type: Ordinary\nAgendas\, reports and minutes: https://web1.ca
+ petown.gov.za/web1/councilhubonline/councilandCommitteemeetings
+LAST-MODIFIED:20261026T045531Z
 LOCATION:Microsoft Teams
 STATUS:CONFIRMED
 URL:https://web1.capetown.gov.za/web1/councilhubonline/councilandCommittee

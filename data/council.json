@@ -627,13 +627,13 @@
   "uid": "coct-council-17148",
   "title": "Special General Appeals Committee",
   "date": "2026-10-30",
-  "start": "10:00",
+  "start": "09:30",
   "end": "14:00",
   "location": "Microsoft Teams",
   "cancelled": false,
   "details": "",
-  "meeting_type": "Special",
-  "modified": "2026-10-20T14:38:41.5531274",
+  "meeting_type": "Ordinary",
+  "modified": "2026-10-26T06:55:31.6946273",
   "url": "https://web1.capetown.gov.za/web1/councilhubonline/councilandCommitteemeetings"
  },
  {
