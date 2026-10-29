@@ -962,6 +962,19 @@
   "url": "https://web1.capetown.gov.za/web1/councilhubonline/councilandCommitteemeetings"
  },
  {
+  "uid": "coct-council-17149",
+  "title": "Mayoral Committee",
+  "date": "2026-12-01",
+  "start": "11:00",
+  "end": "15:00",
+  "location": "Council Chamber Cape Town Civic Centre",
+  "cancelled": false,
+  "details": "",
+  "meeting_type": "Ordinary",
+  "modified": "2026-10-29T09:24:10.7489159",
+  "url": "https://web1.capetown.gov.za/web1/councilhubonline/councilandCommitteemeetings"
+ },
+ {
   "uid": "coct-council-17040",
   "title": "Planning Appeals Advisory Panel",
   "date": "2026-12-02",
@@ -977,14 +990,14 @@
  {
   "uid": "coct-council-17041",
   "title": "Council",
-  "date": "2026-12-03",
+  "date": "2026-12-10",
   "start": "10:00",
   "end": "17:00",
   "location": "Venue To Be Confirmed",
   "cancelled": false,
   "details": "",
   "meeting_type": "Ordinary",
-  "modified": "2025-12-31T19:39:42.8208614",
+  "modified": "2026-10-29T09:14:36.5951133",
   "url": "https://web1.capetown.gov.za/web1/councilhubonline/councilandCommitteemeetings"
  },
  {
