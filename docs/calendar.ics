@@ -745,12 +745,12 @@ BEGIN:VEVENT
 SUMMARY:[COUNCIL] Mayoral Committee
 DTSTART;TZID=Africa/Johannesburg:20261201T110000
 DTEND;TZID=Africa/Johannesburg:20261201T150000
-DTSTAMP:20261029T072410Z
+DTSTAMP:20261102T095144Z
 UID:coct-council-17149@coct-calendar
 DESCRIPTION:Topics: COUNCIL\nType: Ordinary\nAgendas\, reports and minutes
  : https://web1.capetown.gov.za/web1/councilhubonline/councilandCommitteeme
  etings
-LAST-MODIFIED:20261029T072410Z
+LAST-MODIFIED:20261102T095144Z
 LOCATION:Council Chamber Cape Town Civic Centre
 STATUS:CONFIRMED
 URL:https://web1.capetown.gov.za/web1/councilhubonline/councilandCommittee
