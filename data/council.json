@@ -513,7 +513,7 @@
   "start": "10:00",
   "end": "14:00",
   "location": "Committee Room A  5th Flr  Podium  Cape Town",
-  "cancelled": false,
+  "cancelled": true,
   "details": "",
   "meeting_type": "Ordinary",
   "modified": "2025-12-29T16:17:50.4901964",
