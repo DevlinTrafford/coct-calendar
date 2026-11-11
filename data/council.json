@@ -598,6 +598,19 @@
   "url": "https://web1.capetown.gov.za/web1/councilhubonline/councilandCommitteemeetings"
  },
  {
+  "uid": "coct-council-17150",
+  "title": "Council (Inaugural Meeting)",
+  "date": "2026-11-19",
+  "start": "10:00",
+  "end": "17:00",
+  "location": "Council Chamber Cape Town Civic Centre",
+  "cancelled": false,
+  "details": "",
+  "meeting_type": "Inaugural",
+  "modified": "2026-11-11T12:52:54.0848237",
+  "url": "https://web1.capetown.gov.za/web1/councilhubonline/councilandCommitteemeetings"
+ },
+ {
   "uid": "coct-council-17026",
   "title": "Advisory Committee: Water Quality in Wetlands, Waterways and the Coastal Environment [Permit Advisory Forum (PAF)]",
   "date": "2026-11-20",

@@ -668,6 +668,20 @@ URL:https://web1.capetown.gov.za/web1/councilhubonline/councilandCommittee
  meetings
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Council (Inaugural Meeting)
+DTSTART;TZID=Africa/Johannesburg:20261119T100000
+DTEND;TZID=Africa/Johannesburg:20261119T170000
+DTSTAMP:20261111T105254Z
+UID:coct-council-17150@coct-calendar
+DESCRIPTION:Type: Inaugural\nAgendas\, reports and minutes: https://web1.c
+ apetown.gov.za/web1/councilhubonline/councilandCommitteemeetings
+LAST-MODIFIED:20261111T105254Z
+LOCATION:Council Chamber Cape Town Civic Centre
+STATUS:CONFIRMED
+URL:https://web1.capetown.gov.za/web1/councilhubonline/councilandCommittee
+ meetings
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Advisory Committee: Water Quality in Wetlands\, Waterways and the 
  Coastal Environment [Permit Advisory Forum (PAF)]
 DTSTART;TZID=Africa/Johannesburg:20261120T110000
